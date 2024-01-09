@@ -36,3 +36,9 @@ clean file name
 npm i -D babel-loader @babel/core @babel/preset-env
 
 ```
+
+## webpack bundle analyzer
+
+```shell
+npm i -D webpack-bundle-analyzer
+```
