@@ -29,3 +29,10 @@ npm i -D html-webpack-plugin
 
 to make it auto reload
 clean file name
+
+## babel loader
+
+```shell
+npm i -D babel-loader @babel/core @babel/preset-env
+
+```
