@@ -24,3 +24,8 @@ to be able to recreate dist folder
 ```shell
 npm i -D html-webpack-plugin
 ```
+
+## webpack dev-server
+
+to make it auto reload
+clean file name
