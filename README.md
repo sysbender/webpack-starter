@@ -16,3 +16,11 @@ npm remove uuid
 # install loader
 npm i -D sass style-loader css-loader sass-loader
 ```
+
+## html plugin
+
+to be able to recreate dist folder
+
+```shell
+npm i -D html-webpack-plugin
+```
